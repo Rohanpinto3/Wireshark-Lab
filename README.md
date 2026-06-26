@@ -1,5 +1,10 @@
 # Wireshark Network Analysis Lab
 
+<p align="center">
+  <img src="https://files.catbox.moe/c374cl.png" alt="Wireshark Network Analysis Lab Banner" width="100%">
+</p>
+
+  
 ## Description
 
 This repository documents my hands-on experience using Wireshark to capture, inspect, and analyze network traffic. Throughout these labs, I explore the Wireshark interface, perform live packet captures, and analyze packet capture (PCAP) files to develop practical packet analysis and network troubleshooting skills.
