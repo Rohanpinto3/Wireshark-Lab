@@ -76,7 +76,7 @@ Learn the Wireshark interface, including the Startup Window, Main Window, packet
 - Packet Bytes (Hex Dump)
 
 📂 **Open Lab:**  
-`https://github.com/Rohanpinto3/Wireshark-Lab/tree/main/1.%20Wireshark%20GUI%20Walkthrough#readme`
+[Wireshark GUI Walkthrough](./1.%20Wireshark%20GUI%20Walkthrough/)
 
 ---
 
