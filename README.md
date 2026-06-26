@@ -92,7 +92,7 @@ Learn how to capture live network traffic, apply capture filters, save packet ca
 - Exporting Packets
 
 📂 **Open Lab:**  
-`https://github.com/Rohanpinto3/Wireshark-Lab/tree/main/2.%20Capturing%20Live%20Traffic#readme`
+[Capturing Live Traffic](2.%20Capturing%20Live%20Traffic/README.md)
 
 ---
 
@@ -110,7 +110,7 @@ Analyze previously captured traffic using display filters, protocol streams, cus
 - Endpoints
 
 📂 **Open Lab:**  
-`https://github.com/Rohanpinto3/Wireshark-Lab/blob/main/3.%20Analyzing%20PCAPs/README.md`
+[Analyzing PCAP Files](3.%20Analyzing%20PCAPs/README.md)
 
 ---
 
