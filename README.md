@@ -37,7 +37,7 @@ This repository documents my hands-on experience using Wireshark to capture, ins
 |------|-------------|
 | 📂 **[Wireshark GUI Walkthrough](https://github.com/Rohanpinto3/Wireshark-Lab/tree/main/1.%20Wireshark%20GUI%20Walkthrough#readme)** | Learn the Wireshark interface, Startup Window, Main Window, packet panes, and filters. |
 | 📂 **[Capturing Live Traffic](https://github.com/Rohanpinto3/Wireshark-Lab/tree/main/2.%20Capturing%20Live%20Traffic#readme)** | Capture live network traffic, apply capture filters, save captures, and export packets. |
-| 📂 **[Analyzing PCAP Files](03-Analyzing-PCAP-Files/README.md)** | Analyze packet captures using display filters, protocol streams, and Wireshark statistics. |
+| 📂 **[Analyzing PCAP Files](https://github.com/Rohanpinto3/Wireshark-Lab/blob/main/3.%20Analyzing%20PCAPs/README.md)** | Analyze packet captures using display filters, protocol streams, and Wireshark statistics. |
 
 ---
 
@@ -110,7 +110,7 @@ Analyze previously captured traffic using display filters, protocol streams, cus
 - Endpoints
 
 📂 **Open Lab:**  
-`03-Analyzing-PCAP-Files/README.md`
+`https://github.com/Rohanpinto3/Wireshark-Lab/blob/main/3.%20Analyzing%20PCAPs/README.md`
 
 ---
 
