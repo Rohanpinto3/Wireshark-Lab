@@ -1,9 +1,10 @@
 # Wireshark Network Analysis Lab
 
-<p align="center">
-  <img src="https://files.catbox.moe/c374cl.png" alt="Wireshark Network Analysis Lab Banner" width="100%">
-</p>
 
+
+<p align="center">
+  <img src="https://github.com/Rohanpinto3/Wireshark-Lab/blob/main/banner/wireshark(img).png?raw=true" alt="Wireshark Lab Banner" width="100%">
+</p>
   
 ## Description
 
